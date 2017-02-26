@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\dickb\dropbox\school\computer science class\cs370\assignment3\process.h(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(37): warning C4101: 'program2': unreferenced local variable
+  Assignment3.vcxproj -> C:\Users\dickb\Dropbox\School\Computer Science Class\CS370\Assignment3\Debug\Assignment3.exe
+  Assignment3.vcxproj -> C:\Users\dickb\Dropbox\School\Computer Science Class\CS370\Assignment3\Debug\Assignment3.pdb (Full PDB)
